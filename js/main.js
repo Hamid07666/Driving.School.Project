@@ -88,3 +88,22 @@ $(function() {
   });
 });
 
+$(".accept").click(function(){
+        $(".cookie").hide();
+  //Enter your code hear...
+    });
+
+ function sendEmail(){
+  Email.send({
+    Host : "smtp.gmail.com",
+    Username : "hamidmomand851@gmail.com",
+    Password : "momand@12345",
+    To : 'momandhamid60@gmail.com',
+    From : document.getElementById("email").value,
+    Subject : "New Message",
+    Body : "And this is the body"
+}).then(
+  message => alert(message)
+);
+
+}
