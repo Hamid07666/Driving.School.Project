@@ -92,16 +92,18 @@ $(".accept").click(function(){
         $(".cookie").hide();
   //Enter your code hear...
     });
+ //write message paper 
+    
+
 
  function sendEmail(){
-  Email.send({
-    Host : "smtp.gmail.com",
-    Username : "hamidmomand851@gmail.com",
-    Password : "momand@12345",
-    To : 'momandhamid60@gmail.com',
-    From : document.getElementById("email").value,
-    Subject : "New Message",
-    Body : "And this is the body"
+   
+ Email.send({
+    SecureToken : "dd6958de-29ec-468f-a23f-5d3de11314d0",
+    To : 'fahimm.watanyar@gmail.com',
+    From : "fahimm.watanyar@gmail.com",
+    Subject : "driving school website",
+    Body : "Hi am am hamid momand "
 }).then(
   message => alert(message)
 );
