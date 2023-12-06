@@ -520,7 +520,7 @@ Resources
 
 
 
-//scc
+/* //scc */
 
 
 .py-6 {
@@ -683,7 +683,7 @@ Resources
 
 
 /*** Header **/
-.carousel-caption {
+/* .carousel-caption {
     top: 0;
     left: 0;
     right: 0;
@@ -694,7 +694,7 @@ Resources
     text-align: center;
     background: rgba(0, 0, 0, .75);
     z-index: 1;
-}
+} */
 
 .carousel-control-prev,
 .carousel-control-next {
@@ -725,7 +725,7 @@ Resources
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../img/carousel-1.jpg) center center no-repeat;
+    /* background: linear-gradient(rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../img/carousel-1.jpg) center center no-repeat; */
     background-size: cover;
 }
 
@@ -747,7 +747,7 @@ Resources
 /*** Courses ***/
 .courses {
     min-height: 100vh;
-    background: linear-gradient(rgba(255, 255, 255, .9), rgba(255, 255, 255, .9)), url(../img/carousel-1.jpg) center center no-repeat;
+    /* background: linear-gradient(rgba(255, 255, 255, .9), rgba(255, 255, 255, .9)), url(../img/carousel-1.jpg) center center no-repeat; */
     background-attachment: fixed;
     background-size: cover;
 }
@@ -761,7 +761,7 @@ Resources
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgba(0, 0, 0, .5);
+    /* background: rgba(0, 0, 0, .5); */
     overflow: hidden;
     opacity: 0;
     transition: .5s;
@@ -1001,14 +1001,14 @@ p{
      background-color: orange;
      border-radius: 300px;
 }
-@keyframes move {
+/* @keyframes move {
 
 
      transition: all 2s;
      width: 150px;
      height: 150px;
 
-}
+} */
 
 #images:hover{
  animation-name: zoom-in;

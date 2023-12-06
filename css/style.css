@@ -178,7 +178,7 @@ body{
 
 
 /*** Header **/
-.carousel-caption {
+/* .carousel-caption {
     top: 0;
     left: 0;
     right: 0;
@@ -189,7 +189,7 @@ body{
     text-align: center;
     background: rgba(0, 0, 0, .75);
     z-index: 1;
-}
+} */
 
 .carousel-control-prev,
 .carousel-control-next {
@@ -500,14 +500,14 @@ p{
      background-color: orange;
      border-radius: 300px;
 }
-@keyframes move {
+/* @keyframes move {
 
 
      transition: all 2s;
      width: 150px;
      height: 150px;
 
-}
+} */
 
 #images:hover{
  animation-name: zoom-in;
@@ -577,12 +577,12 @@ p{
 
 }
 
-
+/* 
 //driver licnse
 
-//Gallery
-
-//contact 
+//Gallery */
+/* 
+//contact  */
 
 .text-start{
 
@@ -620,7 +620,7 @@ i.bi{
 
 
 
-//lets driv
+/* //lets driv */
 
 
 #boot{
