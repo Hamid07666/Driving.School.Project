@@ -32,7 +32,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- site Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
 </head>
 
 <body>
@@ -63,8 +63,8 @@
                     <a href="Driver lisince.php" class="nav-item nav-link dropdown-toggle text-light">Drivers License</a>
                     <div class="dropdown-menu m-0 bg-secondary">
                         <a href="Theory.php" class="dropdown-item">Theory</a>
-                        <a href="practical.php" class="dropdown-item">Practical</a>
-                        <a href="Driving School change.php" class="dropdown-item">Driving School Change</a>
+                        <!-- <a href="practical.php" class="dropdown-item">Practical</a> -->
+                        <!-- <a href="Driving School change.php" class="dropdown-item">Driving School Change</a> -->
                     </div>
                 </div>
                 <!-- <a href="gallery.html" class="nav-item nav-link">Gallery</a> -->
@@ -74,13 +74,13 @@
                 <a href="contact.php" class="nav-item nav-link text-light">Contact</a>
 
                 <!-- <a href="rigester.html" class="reg nav-link fs-6 fw-bold">Register</a> -->
-                <li class="nav-item dropdown">
+                <li class="nav-item dropdown" style="margin-left: 80px;">
                     <a href="#" class="nav-link" role="button" data-bs-toggle="dropdown">
                         <h4><i class="bi bi-globe2"></h4></i>
                     </a>
                     <ul class="dropdown-menu bg-secondary">
-                        <li><a class="dropdown-item" href="index.php">English</a></li>
                         <li><a class="dropdown-item" href="deutsch.php">Deutsch</a></li>
+                        <li><a class="dropdown-item" href="index.php">English</a></li>
                     </ul>
                 </li>
 
@@ -112,7 +112,7 @@
                     </div> -->
                 </div>
                 <div class="carousel-item">
-                    <img class="w-100" src="img/carousel-2.jpg" alt="Images" style="height:670px">
+                    <img class="w-100" src="img/carousels-2.jpg" alt="Images" style="height:670px">
                     <!-- <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
@@ -312,7 +312,7 @@
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-4">Get In Touch</h4>
                     <h2 class="text-white mb-4"><i class="fa fa-car text-white me-2"></i>Drivin</h2>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Goethestraße 17, 35452<span class="me-4"> Heuchelheim, Germany<span></p>
+                    <p class="  text-start mb-2"><i class="fa fa-map-marker-alt me-3"></i>Goethestraße 17, 35452<span class="me-4"> Heuchelheim, Germany<span></p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+491747576777</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>fahrschule.bayani@gmail.com</p>
                 </div>
@@ -327,8 +327,8 @@
                     <a class="btn btn-link" href="Downloads.php">Downloads</a>
                     <a class="btn btn-link" href="contact.php">Contact</a>
                     <a class="btn btn-link" href="Theory.php">Theory</a>
-                    <a class="btn btn-link" href="practical.php">practical</a>
-                    <a class="btn btn-link" href="Driving School Change.php">Driving School Change</a>
+                    <!-- <a class="btn btn-link" href="practical.php">practical</a> -->
+                    <!-- <a class="btn btn-link" href="Driving School Change.php">Driving School Change</a> -->
                 </div>
 
                 <div class="col-lg-3 col-md-6">

@@ -31,7 +31,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- site Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
 </head>
 
 <body>
@@ -62,8 +62,8 @@
                     <a href="FÜHRERSCHEIN.php" class="nav-item nav-link dropdown-toggle text-light">FÜHRERSCHEIN</a>
                     <div class="dropdown-menu m-0 bg-secondary">
                         <a href="Theorie.php" class="dropdown-item">THEORIE</a>
-                        <a href="practical.php" class="dropdown-item">Praktisch</a>
-                        <a href="Driving School change.php" class="dropdown-item">Fahrschule wechseln</a>
+                        <!-- <a href="practical.php" class="dropdown-item">Praktisch</a> -->
+                        <!-- <a href="Driving School change.php" class="dropdown-item">Fahrschule wechseln</a> -->
                     </div>
                 </div>
                 <!-- <a href="gallery.html" class="nav-item nav-link">Gallery</a> -->
@@ -72,13 +72,13 @@
                 <a href="Herunterladen.php" class="nav-item nav-link text-light">Herunterladen</a>
                 <a href="Kontakt.php" class="nav-item nav-link text-light">Kontakt</a>
                 <!-- <a href="rigester.html" class="reg nav-link fs-6 fw-bold">Register</a> -->
-                <li class="nav-item dropdown">
+                <li class="nav-item dropdown" style="margin-left: 80px">
                     <a href="#" class="nav-link" role="button" data-bs-toggle="dropdown">
                         <h4><i class="bi bi-globe2"></h4></i>
                     </a>
                     <ul class="dropdown-menu bg-secondary">
-                        <li><a class="dropdown-item" href="Data protection.php">English</a></li>
                         <li><a class="dropdown-item" href="Datenschutz.php">Deutsch</a></li>
+                        <li><a class="dropdown-item" href="Data protection.php">English</a></li>
                     </ul>
                 </li>
 
@@ -150,35 +150,13 @@
     </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <div class="container-fluid bg-Secondary text-light footer my-6 mb-0 py-6 wow fadeIn" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-4">Kontakt aufnehmen</h4>
                     <h2 class="text-white mb-4"><i class="fa fa-car text-white me-2"></i>Drivin</h2>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Goethestraße 17, 35452<span class="me-4"> Heuchelheim, Germany<span></p>
+                    <p class="text-start mb-2"><i class="fa fa-map-marker-alt me-3"></i>Goethestraße 17, 35452<span class="me-4"> Heuchelheim, Germany<span></p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+491747576777</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>fahrschule.bayani@gmail.com</p>
                 </div>
@@ -193,8 +171,8 @@
                     <a class="btn btn-link" href="Downloads.php">Herunterladen</a>
                     <a class="btn btn-link" href="contact.php">Kontakt</a>
                     <a class="btn btn-link" href="Theory.php">Theorie</a>
-                    <a class="btn btn-link" href="practical.php">praktisch</a>
-                    <a class="btn btn-link" href="Driving School Change.php">Fahrschule wechseln</a>
+                    <!-- <a class="btn btn-link" href="practical.php">praktisch</a> -->
+                    <!-- <a class="btn btn-link" href="Driving School Change.php">Fahrschule wechseln</a> -->
                 </div>
 
                 <div class="col-lg-3 col-md-6">

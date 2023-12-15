@@ -31,7 +31,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- site Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
 </head>
 
 <body>
@@ -62,8 +62,8 @@
                     <a href="Driver lisince.php" class="nav-item nav-link dropdown-toggle text-light">Drivers License</a>
                     <div class="dropdown-menu m-0 bg-secondary">
                         <a href="Theory.php" class="dropdown-item">Theory</a>
-                        <a href="practical.php" class="dropdown-item">Practical</a>
-                        <a href="Driving School change.php" class="dropdown-item">Driving School Change</a>
+                        <!-- <a href="practical.php" class="dropdown-item">Practical</a> -->
+                        <!-- <a href="Driving School change.php" class="dropdown-item">Driving School Change</a> -->
                     </div>
                 </div>
                 <!-- <a href="gallery.html" class="nav-item nav-link">Gallery</a> -->
@@ -72,13 +72,13 @@
                 <a href="Downloads.php" class="nav-item nav-link text-light">Downloads</a>
                 <a href="Kontakt.php" class="nav-item nav-link text-light">Contact</a>
                 <!-- <a href="rigester.html" class="reg nav-link fs-6 fw-bold">Register</a> -->
-                <li class="nav-item dropdown">
+                <li class="nav-item dropdown" style="margin-left: 80px;">
                     <a href="#" class="nav-link" role="button" data-bs-toggle="dropdown">
                         <h4><i class="bi bi-globe2"></h4></i>
                     </a>
                     <ul class="dropdown-menu bg-secondary">
-                        <li><a class="dropdown-item" href="OPENING HOURS.php">English</a></li>
                         <li><a class="dropdown-item" href="ÖFFNUNGSZEITEN.php">Deutsch</a></li>
+                        <li><a class="dropdown-item" href="OPENING HOURS.php">English</a></li>
                     </ul>
                 </li>
 

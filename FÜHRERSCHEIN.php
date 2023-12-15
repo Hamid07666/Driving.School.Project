@@ -31,7 +31,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!--  Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
 </head>
 
 <body>
@@ -62,8 +62,8 @@
                     <a href="FÜHRERSCHEIN.php" class="nav-link dropdown-toggle text-light" data-bs-toggle="dropdown">FÜHRERSCHEIN</a>
                     <div class="dropdown-menu bg-secondary m-0">
                         <a href="Theorie.php" class="dropdown-item">Theorie</a>
-                        <a href="practical.php" class="dropdown-item">Praktisch</a>
-                        <a href="Driving School change.php" class="dropdown-item">Fahrschule wechseln</a>
+                        <!-- <a href="practical.php" class="dropdown-item">Praktisch</a> -->
+                        <!-- <a href="Driving School change.php" class="dropdown-item">Fahrschule wechseln</a> -->
                     </div>
                 </div>
                 <!-- <a href="gallery.html" class="nav-item nav-link">Gallery</a> -->
@@ -77,8 +77,8 @@
                         <h4><i class="bi bi-globe2"></h4></i>
                     </a>
                     <ul class="dropdown-menu bg-secondary">
-                        <li><a class="dropdown-item" href="Driver lisince.php">English</a></li>
                         <li><a class="dropdown-item" href="FÜHRERSCHEIN.php">Deutsch</a></li>
+                        <li><a class="dropdown-item" href="Driver lisince.php">English</a></li>
                     </ul>
                 </li>
             </div>
@@ -109,7 +109,7 @@
                         <div class="text-center p-4 pt-0 text-light">
                             <!-- <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">$99</div>-->
                             <h5 class="mb-3 float-start fw-bold fs-3 text-light">Schritt 1:</h5>
-                            <p class="text-start fs-6" style="margin-top: 50px;">Anmeldung - Ihr Projekt "Führerschein" beginnt mit der Anmeldung in unserer Fahrschule. Diese ist jederzeit in unserer Filiale möglich. Zur Anmeldung benötigen Sie lediglich Ihren Personalausweis/Reisepass sowie Geld für die Anmeldung und Lernmaterial. Alle Informationen über den Ablauf, die Kosten und weitere wichtige Unterlagen erhalten Sie von unserem gut geschulten Büroteam. Selbstverständlich nehmen wir uns Zeit, Ihre Fragen zu beantworten und halten Checklisten für Sie bereit.
+                            <p class="fs-6" style="margin-top: 50px;">Anmeldung - Ihr Projekt "Führerschein" beginnt mit der Anmeldung in unserer Fahrschule. Diese ist jederzeit in unserer Filiale möglich. Zur Anmeldung benötigen Sie lediglich Ihren Personalausweis/Reisepass sowie Geld für die Anmeldung und Lernmaterial. Alle Informationen über den Ablauf, die Kosten und weitere wichtige Unterlagen erhalten Sie von unserem gut geschulten Büroteam. Selbstverständlich nehmen wir uns Zeit, Ihre Fragen zu beantworten und halten Checklisten für Sie bereit.
 
                                 Sind Sie unter 18 Jahren? Kein Problem - entweder bringen Sie einen Elternteil zur Anmeldung mit oder eine von den Eltern unterschriebene Einverständniserklärung.</p>
                         </div>
@@ -125,7 +125,7 @@
                         <div class="text-center p-4 pt-0 text-light">
                             <!-- <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">$99</div>-->
                             <h5 class="mb-3 float-start fw-bold text-light fs-3">Schritt 2:</h5>
-                            <p class="text-start fs-6" style="margin-top: 50px;">Theorie - Ab dem Tag Ihrer Anmeldung können Sie den Theorieunterricht in unserer Filiale besuchen. Bis zu Ihrer Theorieprüfung sind für die Klasse B folgende Unterrichtsstunden erforderlich.
+                            <p class="fs-6" style="margin-top: 50px;">Theorie - Ab dem Tag Ihrer Anmeldung können Sie den Theorieunterricht in unserer Filiale besuchen. Bis zu Ihrer Theorieprüfung sind für die Klasse B folgende Unterrichtsstunden erforderlich.
 
                                 12x Grundstoff (nur 6x Grundstoff, wenn Sie eine andere Führerscheinklasse haben)
 
@@ -146,7 +146,7 @@
                         <div class="text-center p-4 pt-0 text-light">
                             <!-- <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">$99</div>-->
                             <h5 class="mb-3 float-start fw-bold text-light fs-3">Schritt 3:</h5>
-                            <p class="text-start fs-6" style="margin-top: 50px;">Praxis - Sie haben Ihren Führerscheinantrag und die dazugehörigen Unterlagen eingereicht und schon ein paar Mal den Theorieunterricht besucht? Dann wird es Zeit, sich ins Auto zu setzen! Melden Sie sich in unserem Büro zum Fahren an. Wir versuchen gerne, Ihren Fahrlehrerwunsch zu erfüllen. Jetzt setzen Sie sich mit Ihrem Fahrlehrer in Verbindung und vereinbaren einen Fahrtermin.</p>
+                            <p class="fs-6" style="margin-top: 50px;">Praxis - Sie haben Ihren Führerscheinantrag und die dazugehörigen Unterlagen eingereicht und schon ein paar Mal den Theorieunterricht besucht? Dann wird es Zeit, sich ins Auto zu setzen! Melden Sie sich in unserem Büro zum Fahren an. Wir versuchen gerne, Ihren Fahrlehrerwunsch zu erfüllen. Jetzt setzen Sie sich mit Ihrem Fahrlehrer in Verbindung und vereinbaren einen Fahrtermin.</p>
                         </div>
 
                     </div>
@@ -160,7 +160,7 @@
                         <div class="text-center p-4 pt-0 text-light">
                             <!-- <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">$99</div>-->
                             <h5 class="mb-3 float-start fw-bold text-light fs-3">Schritt 4:</h5>
-                            <p class="text-start fs-6" style="margin-top: 50px;">Prüfung - der TÜV ruft! Die Zeit des Paukens von Fragen und Fahrübungen geht zu Ende und es ist Zeit für die Prüfungen. In der Theorie gibt Ihnen Ihr Lernprogramm ein realistisches Feedback über Ihre Prüfungsreife. Einen Termin für die Theorieprüfung können Sie jederzeit mit uns vereinbaren. Wichtig ist ein sogenannter "Pre-Test" im Vorfeld. Für die Prüfung plant Ihr Fahrlehrer in Absprache mit Ihnen den praktischen Prüfungstermin - natürlich nur, wenn Sie beide von Ihrem fahrerischen Können überzeugt sind.</p>
+                            <p class="fs-6" style="margin-top: 50px;">Prüfung - der TÜV ruft! Die Zeit des Paukens von Fragen und Fahrübungen geht zu Ende und es ist Zeit für die Prüfungen. In der Theorie gibt Ihnen Ihr Lernprogramm ein realistisches Feedback über Ihre Prüfungsreife. Einen Termin für die Theorieprüfung können Sie jederzeit mit uns vereinbaren. Wichtig ist ein sogenannter "Pre-Test" im Vorfeld. Für die Prüfung plant Ihr Fahrlehrer in Absprache mit Ihnen den praktischen Prüfungstermin - natürlich nur, wenn Sie beide von Ihrem fahrerischen Können überzeugt sind.</p>
 
                         </div>
 

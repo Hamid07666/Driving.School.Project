@@ -31,7 +31,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- site Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
 </head>
 
 <body>
@@ -65,8 +65,8 @@
                     <a href="FÜHRERSCHEIN.php" class="nav-link dropdown-toggle text-light" data-bs-toggle="dropdown">FÜHRERSCHEIN</a>
                     <div class="dropdown-menu bg-secondary m-0">
                         <a href="Theorie.php" class="dropdown-item">Theorie</a>
-                        <a href="practical.php" class="dropdown-item">Praktisch</a>
-                        <a href="Driving School change.php" class="dropdown-item">Fahrschule wechseln</a>
+                        <!-- <a href="practical.php" class="dropdown-item">Praktisch</a> -->
+                        <!-- <a href="Driving School change.php" class="dropdown-item">Fahrschule wechseln</a> -->
                     </div>
                 </div>
                 <!-- <a href="gallery.html" class="nav-item nav-link">Gallery</a> -->
@@ -80,8 +80,8 @@
                         <h4><i class="bi bi-globe2"></h4></i>
                     </a>
                     <ul class="dropdown-menu bg-secondary">
-                        <li><a class="dropdown-item" href="OPENING HOURS.php">English</a></li>
                         <li><a class="dropdown-item" href="ÖFFNUNGSZEITEN.php">Deutsch</a></li>
+                        <li><a class="dropdown-item" href="OPENING HOURS.php">English</a></li>
                     </ul>
                 </li>
             </div>

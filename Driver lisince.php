@@ -31,7 +31,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!--  Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
 </head>
 
 <body>
@@ -62,8 +62,8 @@
                     <a href="FÜHRERSCHEIN.php" class="nav-link dropdown-toggle text-light" data-bs-toggle="dropdown">Drivers License</a>
                     <div class="dropdown-menu bg-secondary m-0">
                         <a href="Theory.php" class="dropdown-item">Theory</a>
-                        <a href="practical.php" class="dropdown-item">Practical</a>
-                        <a href="Driving School change.php" class="dropdown-item">Driving School Change</a>
+                        <!-- <a href="practical.php" class="dropdown-item">Practical</a> -->
+                        <!-- <a href="Driving School change.php" class="dropdown-item">Driving School Change</a> -->
                     </div>
                 </div>
                 <!-- <a href="gallery.html" class="nav-item nav-link">Gallery</a> -->
@@ -77,8 +77,8 @@
                         <h4><i class="bi bi-globe2"></h4></i>
                     </a>
                     <ul class="dropdown-menu bg-secondary">
-                        <li><a class="dropdown-item" href="Driver lisince.php">English</a></li>
                         <li><a class="dropdown-item" href="FÜHRERSCHEIN.php">Deutsch</a></li>
+                        <li><a class="dropdown-item" href="Driver lisince.php">English</a></li>
                     </ul>
                 </li>
             </div>
@@ -109,7 +109,7 @@
                         <div class="text-center p-4 pt-0 text-light">
                             <!-- <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">$99</div>-->
                             <h5 class="mb-3 float-start fw-bold fs-3 text-light">Step 1:</h5>
-                            <p class="text-start fs-6" style="margin-top: 50px;">Registration – Your “driver’s license” project begins with registration at our driving school. This is possible at any time in our branch. To register, you only need your identity card/passport as well as money for the registration and learning material. You will receive all information about the process, the costs and other important documents from our well-trained office team. Of course, we take the time to answer your questions and have checklists ready for you.
+                            <p class="fs-6" style="margin-top: 50px;">Registration – Your “driver’s license” project begins with registration at our driving school. This is possible at any time in our branch. To register, you only need your identity card/passport as well as money for the registration and learning material. You will receive all information about the process, the costs and other important documents from our well-trained office team. Of course, we take the time to answer your questions and have checklists ready for you.
 
                                 Are you under 18? No problem - either you bring a parent to register or a declaration of consent signed by the parents.</p>
                         </div>
@@ -125,7 +125,7 @@
                         <div class="text-center p-4 pt-0 text-light">
                             <!-- <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">$99</div>-->
                             <h5 class="mb-3 float-start fw-bold text-light fs-3">Step 2:</h5>
-                            <p class="text-start fs-6" style="margin-top: 50px;">Theory – From the day you register, you can attend the theory class in our branch. Until your theory test, the following classes are required for class B.
+                            <p class="fs-6" style="margin-top: 50px;">Theory – From the day you register, you can attend the theory class in our branch. Until your theory test, the following classes are required for class B.
 
                                 12x basic material (only 6x basic material if you have another driving license class)
 
@@ -146,7 +146,7 @@
                         <div class="text-center p-4 pt-0 text-light">
                             <!-- <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">$99</div>-->
                             <h5 class="mb-3 float-start fw-bold text-light fs-3">Step 3:</h5>
-                            <p class="text-start fs-6" style="margin-top: 50px;">Practice - you have submitted your driver's license application and the associated documents and have already been to theory classes a few times? Then it's time to get in the car! Register in our office to drive. We are happy to try to fulfill your driving instructor request. Now you get in touch with your driving instructor for driving appointments.</p>
+                            <p class="fs-6" style="margin-top: 50px;">Practice - you have submitted your driver's license application and the associated documents and have already been to theory classes a few times? Then it's time to get in the car! Register in our office to drive. We are happy to try to fulfill your driving instructor request. Now you get in touch with your driving instructor for driving appointments.</p>
                         </div>
 
                     </div>
@@ -160,7 +160,7 @@
                         <div class="text-center p-4 pt-0 text-light">
                             <!-- <div class="d-inline-block bg-primary text-white fs-5 py-1 px-4 mb-4">$99</div>-->
                             <h5 class="mb-3 float-start fw-bold text-light fs-3">Step 4:</h5>
-                            <p class="text-start fs-6" style="margin-top: 50px;">Testing – TÜV is calling! The days of cramming questions and practicing driving are coming to an end and it's time for the exams. In theory, your learning program gives you realistic feedback on your exam readiness. You can make an appointment for the theory test with us at any time. A so-called “pre-test” is important beforehand. For the test, your driving instructor will plan the practical test date in consultation with you - of course only when you are both convinced of your driving skills.</p>
+                            <p class="fs-6" style="margin-top: 50px;">Testing – TÜV is calling! The days of cramming questions and practicing driving are coming to an end and it's time for the exams. In theory, your learning program gives you realistic feedback on your exam readiness. You can make an appointment for the theory test with us at any time. A so-called “pre-test” is important beforehand. For the test, your driving instructor will plan the practical test date in consultation with you - of course only when you are both convinced of your driving skills.</p>
 
                         </div>
 

@@ -31,7 +31,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- site Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
 </head>
 
 <body>
@@ -64,8 +64,8 @@
                     <a href="Driver lisince.php" class="nav-item nav-link dropdown-toggle text-light">Drivers License</a>
                     <div class="dropdown-menu bg-light m-0">
                         <a href="Theory.php" class="dropdown-item">Theory</a>
-                        <a href="practical.php" class="dropdown-item">Practical</a>
-                        <a href="Driving School change.php" class="dropdown-item">Driving School Change</a>
+                        <!-- <a href="practical.php" class="dropdown-item">Practical</a> -->
+                        <!-- <a href="Driving School change.php" class="dropdown-item">Driving School Change</a> -->
                     </div>
                 </div>
                 <!-- <a href="gallery.html" class="nav-item nav-link">Gallery</a> -->
@@ -74,13 +74,13 @@
                 <a href="Downloads.php" class="nav-item nav-link text-light">Downloads</a>
                 <a href="contact.php" class="nav-item nav-link text-light">Contact</a>
                 <!-- <a href="rigester.html" class="reg nav-link fs-6 fw-bold">Register</a> -->
-                <li class="nav-item dropdown">
+                <li class="nav-item dropdown" style="margin-left: 80px">
                     <a href="#" class="nav-link" role="button" data-bs-toggle="dropdown">
                         <h4><i class="bi bi-globe2"></h4></i>
                     </a>
                     <ul class="dropdown-menu bg-secondary">
-                        <li><a class="dropdown-item" href="Imprint.php">English</a></li>
                         <li><a class="dropdown-item" href="Impressum.php">Deutsch</a></li>
+                        <li><a class="dropdown-item" href="Imprint.php">English</a></li>
                     </ul>
                 </li>
 
@@ -104,21 +104,22 @@
                 </p>
 
                 <p>
-                    Legal notice
-                    Bayani Driving School
-                    Haroon Bayani
-                    Goethe Street 17,
-                    35452 Heuchelheim
-
-                    Phone: 01747576777
-                    Mail: Fahrschule.bayani@gmail.com
-                    Sales tax identification number:
-                    DE02080461135
-
-                    Responsible supervisory authority:
-                    Regional Council Giessen
-                    Landgraf-Philipp-Platz 1-7,
-                    35390 Giessen</p>
+                    Legal notice<br>
+                    Bayani Driving School<br>
+                    Haroon Bayani<br>
+                    Goethe Street 17,<br>
+                    35452 Heuchelheim<br>
+                    <br><br>
+                    Phone: 01747576777<br>
+                    Mail: Fahrschule.bayani@gmail.com<br>
+                    Sales tax identification number:<br>
+                    DE02080461135<br>
+                    <br>
+                    Responsible supervisory authority:<br>
+                    Regional Council Giessen<br>
+                    Landgraf-Philipp-Platz 1-7,<br>
+                    35390 Giessen
+                </p>
                 <!-- Add more content here -->
             </div>
         </div>
@@ -168,8 +169,8 @@
                     <a class="btn btn-link" href="Downloads.php">Downloads</a>
                     <a class="btn btn-link" href="contact.php">Contact</a>
                     <a class="btn btn-link" href="Theory.php">Theory</a>
-                    <a class="btn btn-link" href="practical.php">practical</a>
-                    <a class="btn btn-link" href="Driving School Change.php">Driving School Change</a>
+                    <!-- <a class="btn btn-link" href="practical.php">practical</a> -->
+                    <!-- <a class="btn btn-link" href="Driving School Change.php">Driving School Change</a> -->
                 </div>
 
                 <div class="col-lg-3 col-md-6">

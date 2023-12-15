@@ -29,7 +29,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
 </head>
 
 <body>
@@ -62,8 +62,8 @@
                     <a href="FÜHRERSCHEIN.php" class="nav-link dropdown-toggle text-light" data-bs-toggle="dropdown">FÜHRERSCHEIN</a>
                     <div class="dropdown-menu bg-secondary m-0">
                         <a href="Theorie.php" class="dropdown-item">Theorie</a>
-                        <a href="practical.php" class="dropdown-item">Praktisch</a>
-                        <a href="Driving School change.php" class="dropdown-item">Fahrschule wechseln</a>
+                        <!-- <a href="practical.php" class="dropdown-item">Praktisch</a> -->
+                        <!-- <a href="Driving School change.php" class="dropdown-item">Fahrschule wechseln</a> -->
                     </div>
                 </div>
                 <!-- <a href="gallery.html" class="nav-item nav-link">Gallery</a> -->
@@ -77,8 +77,9 @@
                         <h4><i class="bi bi-globe2"></h4></i>
                     </a>
                     <ul class="dropdown-menu bg-secondary">
-                        <li><a class="dropdown-item" href="prices.php">English</a></li>
                         <li><a class="dropdown-item" href="Preise.php">Deutsch</a></li>
+                        <li><a class="dropdown-item" href="prices.php">English</a></li>
+
                     </ul>
                 </li>
             </div>
@@ -100,7 +101,7 @@
 
             <div class="col-lg-6 col-md-12 mt-4">
                 <h1 class="text-light fw-bold fs-2">KlasseB: 197</h1>
-                <p class=" fs-5 mt-5">Mit dem B197 lässt sich die
+                <p class="fs-5 mt-5">Mit dem B197 lässt sich die
                     Führerscheinausbildung auf Fahrzeugen mit Schalt- und Automatikgetriebe kombinieren, ohne dass es zu Einschränkungen im Führerschein kommt.
                     Besonderheit: Die Ausbildung findet vorwiegend auf Fahrzeugen mit
                     Automatikgetriebe statt.

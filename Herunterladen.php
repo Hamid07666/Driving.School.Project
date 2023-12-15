@@ -31,7 +31,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- site Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
 </head>
 
 <body>
@@ -64,8 +64,8 @@
                     <a href="FÜHRERSCHEIN.php" class="nav-item nav-link dropdown-toggle text-light">FÜHRERSCHEIN</a>
                     <div class="dropdown-menu bg-secondary m-0">
                         <a href="Theorie.php" class="dropdown-item">Theorie</a>
-                        <a href="practical.php" class="dropdown-item">Praktisch</a>
-                        <a href="Driving School change.php" class="dropdown-item">Fahrschule wechseln</a>
+                        <!-- <a href="practical.php" class="dropdown-item">Praktisch</a> -->
+                        <!-- <a href="Driving School change.php" class="dropdown-item">Fahrschule wechseln</a> -->
                     </div>
                 </div>
                 <!-- <a href="gallery.html" class="nav-item nav-link">Gallery</a> -->
@@ -74,13 +74,13 @@
                 <a href="Herunterladen.php" class="nav-item nav-link text-light">Herunterladen</a>
                 <a href="Kontakt.php" class="nav-item nav-link text-light">Kontakt</a>
                 <!-- <a href="rigester.html" class="reg nav-link fs-6 fw-bold">Register</a> -->
-                <li class="nav-item dropdown">
+                <li class="nav-item dropdown" style="margin-left: 80px">
                     <a href="#" class="nav-link" role="button" data-bs-toggle="dropdown">
                         <h4><i class="bi bi-globe2"></h4></i>
                     </a>
                     <ul class="dropdown-menu bg-secondary">
-                        <li><a class="dropdown-item" href="Downloads.php">English</a></li>
                         <li><a class="dropdown-item" href="Herunterladen.php">Deutsch</a></li>
+                        <li><a class="dropdown-item" href="Downloads.php">English</a></li>
                     </ul>
                 </li>
 

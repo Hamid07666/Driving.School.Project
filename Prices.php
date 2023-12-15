@@ -29,7 +29,7 @@
   <link href="css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Template Stylesheet -->
-  <link href="css/style.css" rel="stylesheet">
+  <link href="css/styles.css" rel="stylesheet">
 </head>
 
 <body>
@@ -61,8 +61,8 @@
           <a href="Driver lisince.php" class="nav-item nav-link dropdown-toggle text-light">Drivers License</a>
           <div class="dropdown-menu bg-secondary m-0">
             <a href="Theory.php" class="dropdown-item">Theory</a>
-            <a href="practical.php" class="dropdown-item">Practical</a>
-            <a href="Driving School change.php" class="dropdown-item">Driving School Change</a>
+            <!-- <a href="practical.php" class="dropdown-item">Practical</a> -->
+            <!-- <a href="Driving School change.php" class="dropdown-item">Driving School Change</a> -->
           </div>
         </div>
         <!-- <a href="gallery.html" class="nav-item nav-link">Gallery</a> -->
@@ -71,13 +71,14 @@
         <a href="Downloads.php" class="nav-item nav-link text-light">Downloads</a>
         <a href="contact.php" class="nav-item nav-link text-light">Contact</a>
         <!-- <a href="rigester.html" class="reg nav-link fs-6 fw-bold">Register</a> -->
-        <li class="nav-item dropdown">
+        <li class="nav-item dropdown" style="margin-left: 80px">
           <a href="#" class="nav-link" role="button" data-bs-toggle="dropdown">
             <h4><i class="bi bi-globe2"></h4></i>
           </a>
           <ul class="dropdown-menu bg-secondary">
-            <li><a class="dropdown-item" href="prices.php">English</a></li>
             <li><a class="dropdown-item" href="Preise.php">Deutsch</a></li>
+            <li><a class="dropdown-item" href="prices.php">English</a></li>
+
           </ul>
         </li>
 
@@ -100,7 +101,7 @@
 
       <div class="col-lg-6 col-md-12 mt-4">
         <h1 class="text-light fw-bold fs-2">ClassB: 197</h1>
-        <p class=" fs-5 mt-5">With the B197, you can combine
+        <p style="text-align: justify" class="fs-5 mt-5">With the B197, you can combine
           driving license training on vehicles with manual and automatic transmissions can be combined without any restrictions on the driving license.
           Special feature: The training mainly takes place on vehicles with
           automatic transmission.

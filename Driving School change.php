@@ -29,7 +29,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
 </head>
 
 <body>
@@ -61,8 +61,8 @@
                     <a href="Driver lisince.php" class="nav-item nav-link dropdown-toggle text-light">Drivers License</a>
                     <div class="dropdown-menu bg-secondary m-0">
                         <a href="Theory.php" class="dropdown-item">Theory</a>
-                        <a href="practical.php" class="dropdown-item">Practical</a>
-                        <a href="Driving School change.php" class="dropdown-item ">Driving School Change</a>
+                        <!-- <a href="practical.php" class="dropdown-item">Practical</a> -->
+                        <!-- <a href="Driving School change.php" class="dropdown-item ">Driving School Change</a> -->
                     </div>
                 </div>
                 <!-- <a href="gallery.html" class="nav-item nav-link">Gallery</a> -->
