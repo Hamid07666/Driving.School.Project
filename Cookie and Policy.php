@@ -31,7 +31,7 @@
    <link href="css/bootstrap.min.css" rel="stylesheet">
 
    <!-- site Stylesheet -->
-   <link href="css/style.css" rel="stylesheet">
+   <link href="css/styles.css" rel="stylesheet">
 </head>
 
 <body>
@@ -78,7 +78,7 @@
          </p>
       </div>
       <div>
-         <a class="btn accept">Accept</a>
+         <button><a class="btn accept">Accept</a></button>
       </div>
    </section>
 

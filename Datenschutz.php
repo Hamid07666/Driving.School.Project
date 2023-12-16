@@ -164,13 +164,13 @@
 
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Website-Links</h4>
-                    <a class="btn btn-link" href="index.php">Heim</a>
-                    <a class="btn btn-link" href="Drivers License.php">Führerschein</a>
-                    <a class="btn btn-link" href="OPENING HOURS.php">ÖFFNUNGSZEITEN</a>
-                    <a class="btn btn-link" href="Prices.php">Preise</a>
-                    <a class="btn btn-link" href="Downloads.php">Herunterladen</a>
-                    <a class="btn btn-link" href="contact.php">Kontakt</a>
-                    <a class="btn btn-link" href="Theory.php">Theorie</a>
+                    <a class="btn btn-link" href="deutsch.php">Heim</a>
+                    <a class="btn btn-link" href="FÜHRERSCHEIN.php">Führerschein</a>
+                    <a class="btn btn-link" href="ÖFFNUNGSZEITEN.php">ÖFFNUNGSZEITEN</a>
+                    <a class="btn btn-link" href="Preise.php">Preise</a>
+                    <a class="btn btn-link" href="Herunterladen.php">Herunterladen</a>
+                    <a class="btn btn-link" href="Kontakt.php">Kontakt</a>
+                    <a class="btn btn-link" href="Theorie.php">Theorie</a>
                     <!-- <a class="btn btn-link" href="practical.php">praktisch</a> -->
                     <!-- <a class="btn btn-link" href="Driving School Change.php">Fahrschule wechseln</a> -->
                 </div>

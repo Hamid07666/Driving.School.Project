@@ -60,8 +60,6 @@
                     <a href="Driver lisince.php" class="nav-item nav-link dropdown-toggle text-light">Drivers License</a>
                     <div class="dropdown-menu bg-secondary">
                         <a href="Theory.php" class="dropdown-item">Theory</a>
-                        <!-- <a href="practical.php" class="dropdown-item">Practical</a> -->
-                        <!-- <a href="Driving School change.php" class="dropdown-item">Driving School Change</a> -->
                     </div>
                 </div>
                 <!-- <a href="gallery.html" class="nav-item nav-link">Gallery</a> -->
@@ -179,7 +177,7 @@
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Site Links</h4>
                     <a class="btn btn-link" href="index.php">Home</a>
-                    <a class="btn btn-link" href="Drivers License.php">Drivers License</a>
+                    <a class="btn btn-link" href="Driver lisince.php">Drivers License</a>
                     <a class="btn btn-link" href="OPENING HOURS.php">OPENING HOURS</a>
                     <a class="btn btn-link" href="Prices.php">Prices</a>
                     <a class="btn btn-link" href="Downloads.php">Downloads</a>

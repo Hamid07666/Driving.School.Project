@@ -59,7 +59,7 @@
                 <!-- <a href="team.html" class="nav-item nav-link">Team</a> -->
                 <!-- <a href="vehicles.html" class="nav-item nav-link">Our Vehicles</a>         -->
                 <div class="nav-item dropdown">
-                    <a href="FÜHRERSCHEIN.php" class="nav-link dropdown-toggle text-light" data-bs-toggle="dropdown">Drivers License</a>
+                    <a href="Driver lisince.php" class="nav-link dropdown-toggle text-light" data-bs-toggle="dropdown">Drivers License</a>
                     <div class="dropdown-menu bg-secondary m-0">
                         <a href="Theory.php" class="dropdown-item">Theory</a>
                         <!-- <a href="practical.php" class="dropdown-item">Practical</a> -->

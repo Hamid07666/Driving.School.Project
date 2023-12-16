@@ -27,6 +27,7 @@ body{
     margin-bottom: 6rem;
 }
 
+
 .back-to-top {
     position: fixed;
     display: none;
@@ -131,10 +132,13 @@ body{
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
-    color: black;
+    color: var(--primary);
     transition: zoom .8s;
     font-weight: bold;
+     
+    
 }
+
 
 .navbar .dropdown-toggle::after {
     border: none;
@@ -144,6 +148,7 @@ body{
     vertical-align: middle;
     margin-left: 8px;
 }
+
 
 @media (max-width: 991.98px) {
     .navbar .navbar-nav .nav-link  {
@@ -166,12 +171,16 @@ body{
         visibility: hidden;
         transition: .5s;
     }
+    .nav-item:hover{
+        color: #F3BD00;
+    }
 
     .navbar .nav-item:hover .dropdown-menu {
         top: 100%;
         visibility: visible;
         transition: .5s;
         opacity: 1;
+       
     }
 }
 
@@ -296,7 +305,7 @@ body{
 }
 .team-item:hover::after {
     height: 100%;
-    background: #fff;
+    background: hsl(0, 8%, 95%);
 }
 #hover{
     margin: -.75rem;
@@ -443,6 +452,7 @@ body{
 
 p{
     text-align: left;
+    text-align: justify;
 }
 
 
@@ -621,6 +631,10 @@ i.bi{
 
 
 /* //lets driv */
+
+
+
+
 
 
 #boot{

@@ -91,7 +91,7 @@
         </div>
         <div class="row mb-5">
             <div class="col-lg-6 col-md-12 mt-5">
-                <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=320x1024:format=png/path/se4df9ff482c2640b/image/i9d7ff556c12706e4/version/1688048307/image.png">
+                <img src="img/ Theory lesson  (1).png">
             </div>
             <div class="col-lg-6 col-md-12 mt-5">
                 <h1 class="text-light mt-4 fw-bold fs-3">Theory lessons</h1>
@@ -102,7 +102,7 @@
             </div>
             <hr style="border-top: 4px solid white; margin-top: 100px;">
             <div class="col-lg-6 col-md-12 mt-5">
-                <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=320x1024:format=png/path/se4df9ff482c2640b/image/ic8d7a45185a56490/version/1687559604/image.png">
+                <img src="img/WorkBook.png" height="100%" ; width="45%">
             </div>
             <div class="col-lg-6 col-md-12 mt-5">
                 <h1 class="text-light mt-4 fw-bold fs-3">Workbook</h1>
@@ -113,7 +113,7 @@
             </div>
             <hr style="border-top: 4px solid white; margin-top: 100px;">
             <div class="col-lg-6 col-md-12 mt-5">
-                <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=320x1024:format=png/path/se4df9ff482c2640b/image/i1cfac32c3482ac47/version/1687559604/image.png">
+                <img src="img/Stamp.png" height="80%" ; width="40%">
             </div>
             <div class="col-lg-6 col-md-12 mt-5">
                 <h1 class="text-light mt-4 fw-bold fs-3">TheoryCheck app</h1>

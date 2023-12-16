@@ -191,7 +191,7 @@
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Site Links</h4>
                     <a class="btn btn-link" href="index.php">Home</a>
-                    <a class="btn btn-link" href="Drivers License.php">Drivers License</a>
+                    <a class="btn btn-link" href="Driver lisince.php">Drivers License</a>
                     <a class="btn btn-link" href="OPENING HOURS.php">OPENING HOURS</a>
                     <a class="btn btn-link" href="Prices.php">Prices</a>
                     <a class="btn btn-link" href="Downloads.php">Downloads</a>
@@ -205,7 +205,7 @@
                     <h4 class="text-light mb-4">Genral Links</h4>
                     <a class="btn btn-link" href="Imprint.php">Imprint</a>
                     <a class="btn btn-link" href="Data protection.php">Data protection</a>
-                    <a class="btn btn-link" href="">Cookie Policy</a>
+                    <a class="btn btn-link" href="Cookie and Policy.php">Cookie Policy</a>
 
                 </div>
 
